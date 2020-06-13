@@ -65,14 +65,27 @@ document.addEventListener('DOMContentLoaded', () => {
         })
     };
 
-    //make move tetromino move down every second
+    //make move Tetromino move down every second
     timerId = setInterval(moveDown, 1000);
 
     //move down function
     function moveDown() {
-        undraw()
-        curretPosition += width
-        draw()
+        undraw();
+        curretPosition += width;
+        draw();
+        freeze();
+    };
+
+    //freeze function
+    function freeze() {
+        if(current.some(index => squares[curretPosition + index + width].classList.contains('taken'))) {
+            current.forEach(index => squares[curretPosition + index].classList.add('taken'));
+            //start a new Tetromino falling
+            random = Math.floor(Math.random() * theTetrominoes.length);
+            current = theTetrominoes[random][currentRotation];
+            curretPosition = 4;
+            draw();
+        }
     };
 
     
