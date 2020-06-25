@@ -113,6 +113,8 @@ document.addEventListener('DOMContentLoaded', () => {
             displayShape();
 
             addScore();
+
+            gameOver();
         }
     };
 
@@ -226,10 +228,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 const squaresRemoved = squares.splice(i, width);
                 squares = squaresRemoved.concat(squares);
                 squares.forEach(cell => grid.appendChild(cell));
-
             };
         };
     };
 
+    //game over
+    function gameOver () {
+        if ( current.some(index => squares[curretPosition + index].classList.contains('taken')) ) {
+            scoreDisplay.innerHTML *= 'End';
+
+            clearInterval (timerId);
+        };
+    };
 
 });
