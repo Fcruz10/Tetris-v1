@@ -1,5 +1,9 @@
-<h1 align="center">Tetris</h1>
-<p align="center">Very basic version</p>
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src="./public/assets/TetrisLogo.png">
+    <br>
+    <b>Very Basic Version</b>  
+    <br>
+</h3>
 
 <p align="center">
 
