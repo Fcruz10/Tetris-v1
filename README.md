@@ -39,16 +39,18 @@
   <a href="#license">License</a>
 </p>
 
+<br />
+<br />
+
 <a id="about"></a>
 ## :computer: About the Project
 
 This is a very simple version of Tetris that has no styling. My first game ever created.
 
-<br />
-
-<h1 align="center">
+<div align="center">
   <img src="./public/assets/GamePreview.gif">
-</h1>
+</div>
+
 <br />
 
 <a id="instructions"></a>
