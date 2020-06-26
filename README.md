@@ -42,6 +42,11 @@ This is a very simple version of Tetris that has no styling. My first game ever 
 
 <br />
 
+<h1 align="center">
+  <img src="./public/assets/GamePreview.gif">
+</h1>
+<br />
+
 <a id="instructions"></a>
 ## :bookmark_tabs: Instruction to Play
 
