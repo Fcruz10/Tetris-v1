@@ -5,6 +5,19 @@
     <br>
 </h3>
 
+<br />
+
+<h1 align="center">Index</h1>
+
+<p align="center">
+  <a href="#about">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instructions">Instructions to Play</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#methods">JS Methods</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
+</p>
+
 <p align="center">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fcruz10/Tetris-v1">
@@ -17,26 +30,8 @@
     <img alt="Francisco Cruz" src="https://img.shields.io/badge/Francisco-in-%230072b1">
   </a>
   <a>
-    <img alt="License" src="https://img.shields.io/github/license/vitorserrano/tetris-v1?color=%237519C1">
-  </a>
-  
-  <a>
-    <img alt="version" src="https://img.shields.io/badge/version-1.0.0-%230072b1">
-  </a>
-  
-</p>
+    <img alt="GitHub" src="https://img.shields.io/github/license/Fcruz10/tetris-v1?color=%20%237159c1">
 
-<br />
-
-<h1 align="center">Index</h1>
-
-<p align="center">
-  <a href="#about">About the Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instructions">Instructions to Play</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#methods">JS Methods</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
 </p>
 
 <br />
