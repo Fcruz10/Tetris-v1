@@ -118,13 +118,13 @@ This project was developed with the following inbuilt JavaScript methods:
 -  Commit changes: `git commit -m 'feat: My new feature'`;
 -  Make a push to your branch: `git push origin my-feature`.
 
-After merging your receipt request to done, you can delete a branch from yours.
+After your merging changes are accepted, you can delete your branch.
 
 <br />
 
 <a id="license"></a>
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/Fcruz10/Ecoleta/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/Fcruz10/Tetris-v1/blob/master/LICENSE) for details.
 
-Made by Francisco Cruz [Get in touch!](https://www.linkedin.com/in/francisco-cruz-074208140/)
+<p align="center"> Made by Francisco Cruz <a href="https://www.linkedin.com/in/francisco-cruz-074208140/"> Get in touch! </a> </p>
