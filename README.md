@@ -7,17 +7,17 @@
 
 <p align="center">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fcruz10/LaunchBase">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fcruz10/Tetris-v1">
   
-  <a href="https://github.com/Fcruz10/LaunchBase/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Fcruz10/LaunchBase">
+  <a href="https://github.com/Fcruz10/Tetris-v1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Fcruz10/Tetris-v1">
   </a>
 
   <a href="https://www.linkedin.com/in/francisco-cruz-074208140/" >
     <img alt="Francisco Cruz" src="https://img.shields.io/badge/Francisco-in-%230072b1">
   </a>
   <a>
-    <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+    <img alt="License" src="https://img.shields.io/github/license/vitorserrano/tetris-v1?color=%237519C1">
   </a>
   
   <a>
