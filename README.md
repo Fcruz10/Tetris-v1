@@ -2,10 +2,7 @@
     <img alt="Logo" title="#logo" width="300px" src="./public/assets/TetrisLogo.png">
     <br>
     <b>Very Basic Version</b>  
-    <br>
 </h3>
-
-<br />
 
 <h1 align="center">Index</h1>
 
